@@ -46,7 +46,7 @@ server:
 
 logging:
   level:
-    com.nowcoder.community.dao: debug
+    com.nowcoder.community: debug
 
 
 
